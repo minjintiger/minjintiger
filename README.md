@@ -1,4 +1,3 @@
-# Hi, I'm Minjin Kim
 
 I'm a Computer Science M.Eng. student at Virginia Tech focusing on computer security and software developing. I like building security tools and software and testing how they work in practice.
 
